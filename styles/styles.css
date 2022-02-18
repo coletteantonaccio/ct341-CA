@@ -1,17 +1,16 @@
 /* typography */
-h1, h2 {
-    font-family: 'Abril Fatface', cursive;
-    color: #cc99ff;
-}
 
-p, a {
+body {
     font-family: 'Manrope', sans-serif;
     font-size: 14px;
     color: #194d33;
 }
 
+h1, h2 {
+    font-family: 'Abril Fatface', cursive;
+    color: #cc99ff;
+}
 
 /* layout */
-
 
 /* media */
